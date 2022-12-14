@@ -4,6 +4,13 @@
 
 https://www.canva.com/design/DAFUIl3kfx4/sFPlW306vTatxq8_SWSVrw/edit?utm_content=DAFUIl3kfx4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+# Links de descarga
+
+- [Human histone h1.1](https://www.uniprot.org/uniprotkb/Q02539/entry)
+- [Human histone h1.2](https://www.uniprot.org/uniprotkb/P16403/entry)
+- [Macaca fascicularis histone h1.1](https://www.uniprot.org/uniprotkb/A0A8J8XXR4/entry)
+- [Macaca fascicularis histone h1.2](https://www.uniprot.org/uniprotkb/G7P2L7/entry)
+
 ## Resultados
 
 ```
